@@ -1,5 +1,5 @@
 import React from "react";
-import Home from "./Todo-App/Home";
+import Home from "./Components/Home";
 
 const App = () => {
     return (
